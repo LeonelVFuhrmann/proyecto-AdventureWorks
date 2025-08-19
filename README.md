@@ -12,4 +12,6 @@ Este proyecto consiste en la **limpieza, análisis y visualización** de datos d
 - excel (extracción de datos)
 - Power BI (visualizaciones y KPIs)
 
-
+## 📦 Datos, capturas y documentación completa
+Todo el material (datasets raw y clean, capturas del dashboard, documentación y archivos pesados) está en esta carpeta de Google Drive:
+👉 [Abrir carpeta en Drive](https://drive.google.com/drive/folders/1H9M4Mh-7LYyTlvJrBRjxfcnAoPR_ZiSW?usp=sharing)
